@@ -1,0 +1,8 @@
+datasets
+transformers
+torch
+scikit-learn
+numpy
+lime
+google-generativeai
+python-dotenv
